@@ -27,7 +27,6 @@ console. This lab is solely focus on the visual representation of Factory Method
 </br>
 ## Screen Shot
 ![Screen shot image](Screenshot.PNG)
-</br>
 
 ## How to run the application
 - Go to the github repo ( https://github.com/AndrewBaik/Lab-FactoryDesignPattern.git ) 
