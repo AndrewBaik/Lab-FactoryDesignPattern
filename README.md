@@ -24,7 +24,7 @@
 Each Document derived classes require list of derived page classes to make it into an object. Visual representation is presented in the 
 console. This lab is solely focus on the visual representation of Factory Method in Design Pattern.
 
-</br>
+
 ## Screen Shot
 ![Screen shot image](Screenshot.PNG)
 
