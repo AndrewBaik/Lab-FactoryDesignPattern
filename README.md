@@ -3,25 +3,31 @@
 ## Summary
 - This lab is written to represent the art of design pattern using [Factory Method](https://www.exceptionnotfound.net/the-daily-design-pattern-factory-method/)
  using two abstract classes and several derived classes. Layout of abstract and derived classes are as follow:
+ </br>
 	- Two abstract classes:
 		1. Documents
 		2. Pages
+		</br>
 	- Derived Page classes:
 		1. CoverLetter
 		2. Education
 		3. Experiences
 		4. JobDescription
+		5. Portfolio
+		5. Skills
+		6. Summary
+		</br>
 	- Derived Document classes:
 		1. Resume
 		2. CandidatePacket
-
+		</br>
 Each Document derived classes require list of derived page classes to make it into an object. Visual representation is presented in the 
 console. This lab is solely focus on the visual representation of Factory Method in Design Pattern.
 
-
+</br>
 ## Screen Shot
 ![Screen shot image](Screenshot.PNG)
-
+</br>
 
 ## How to run the application
 - Go to the github repo ( https://github.com/AndrewBaik/Lab-FactoryDesignPattern.git ) 
